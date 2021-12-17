@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apihplays
 - 👀 I’m interested in Game , and learning new thing about Linux, Video editing , tiktok and many more
 - 🌱 I’m currently graduated from Universiti Teknologi MARA (UiTM Shah Alam) as an Electrical Engineer
-- 💞️ I’m looking to collaborate on Translation project, currently doing Malay Translation on EKA2Li symbian emulator
+- 💞️ I’m looking to collaborate on Translation project, currently doing Malay Translation on EKA2L1 symbian emulator
 - 📫 How to reach me simply email to me at ahafizmohamed95@protonmail.com
 
 <!---
