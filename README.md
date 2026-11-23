@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Apihplays
-- 👀 I’m interested in Game , and learning new thing about Linux, Video editing , tiktok and many more
-- 🌱 I’m currently graduated from Universiti Teknologi MARA (UiTM Shah Alam) as an Electrical Engineer
-- 💞️ I’m looking to collaborate on Translation project, currently doing Malay Translation on [EKA2L1 symbian emulator](https://github.com/EKA2L1/EKA2L1)
-- 📫 How to reach me simply email to me at ahafizmohamed95@protonmail.com
+### What's up! I'm Apih — but everyone calls me **Bedul** ⚡👷‍♂️
 
-<!---
-Apihplays/Apihplays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+bedul@marang-site:~$ whoami
+> Electrical Engineer by trade (UiTM alumni)
+> M&E specialist at Marang Project by day
+> Linux tinkerer, gamer & code builder by night
+```
+
+- 🏗️ **Day Job:** Keeping power and systems flowing as **M&E at Marang Project**.
+- 🎓 **Roots:** Proud Electrical Engineering graduate from **UiTM Shah Alam**.
+- 💻 **Tech Side:** Big on Linux, open-source hacking, git workflows, and making the web more accessible.
+- 🎮 **Downtime:** Gaming, digital content creation, video editing & discovering random tech rabbit holes.
+- ✉️ **Holla at me:** [ahafizmohamed95@protonmail.com](mailto:ahafizmohamed95@protonmail.com)
+
+---
+⚡ *When I'm not inspecting conduits and switchboards at Marang, I'm debugging code.*
